@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>Ex5_Ex6_Math_in_separate_namespaces</RootNamespace>
+    </PropertyGroup>
+
+</Project>

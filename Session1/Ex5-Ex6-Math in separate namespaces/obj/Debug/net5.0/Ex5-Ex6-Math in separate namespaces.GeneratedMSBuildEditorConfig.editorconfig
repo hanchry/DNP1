@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Ex5_Ex6_Math_in_separate_namespaces
+build_property.ProjectDir = C:\Users\hanch\Desktop\school\Exercises\DNP\Session1\Ex5-Ex6-Math in separate namespaces\
